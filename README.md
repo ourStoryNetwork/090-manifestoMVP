@@ -7,3 +7,4 @@ Goal Oriented Game: Publish a manifestoMVP for a Nostr web client that helps peo
 ![IMG_0933](https://github.com/ourStoryNetwork/091-manifestoMVP/assets/8133349/f85b0c6e-c2ba-41a2-950e-10186b204fc8)
 ![IMG_0934](https://github.com/ourStoryNetwork/091-manifestoMVP/assets/8133349/bbd9e46d-8b06-43e9-8293-1f7ea254ed8d)
 ![IMG_0935](https://github.com/ourStoryNetwork/091-manifestoMVP/assets/8133349/023bada3-8e24-4831-b50a-2e102924fbd3)
+![IMG_0935](https://github.com/ourStoryNetwork/091-manifestoMVP/assets/8133349/fb957dd1-5747-4d73-8d6d-2f894119d5cb)
